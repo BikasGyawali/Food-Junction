@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+View at https://bikasgyawali.github.io/restaurant-website-react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
