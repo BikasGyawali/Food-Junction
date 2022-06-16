@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/restaurant-website-react/static/css/main.b866e2bd.css",
+    "main.js": "/restaurant-website-react/static/js/main.5d6e973d.js",
+    "static/media/dumpling.jpg": "/restaurant-website-react/static/media/dumpling.0e473ebca21876ebfdd8.jpg",
+    "static/media/logo.jpg": "/restaurant-website-react/static/media/logo.4c6adc53a615b09b916b.jpg",
+    "static/media/instagram-brands.svg": "/restaurant-website-react/static/media/instagram-brands.813fd06b51b26e101fbbdde32e64af13.svg",
+    "static/media/twitter-brands.svg": "/restaurant-website-react/static/media/twitter-brands.7b0966c673ac146ae16dfeaa6ecc2eb1.svg",
+    "index.html": "/restaurant-website-react/index.html",
+    "static/media/facebook-brands.svg": "/restaurant-website-react/static/media/facebook-brands.c6089f12d8bb287d9dcefca86bac3740.svg",
+    "main.b866e2bd.css.map": "/restaurant-website-react/static/css/main.b866e2bd.css.map",
+    "main.5d6e973d.js.map": "/restaurant-website-react/static/js/main.5d6e973d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b866e2bd.css",
+    "static/js/main.5d6e973d.js"
+  ]
+}
